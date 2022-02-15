@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on my personal portfolio
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate with other web developers
-- ⚡ Fun fact: I love to draw and listen to music
+- ⚡ Fun fact: I love to draw and listening to music
 
 ### Connect with me:
 
