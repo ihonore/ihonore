@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## I'm a Web Developer!!
 
-- 🔭 I'm currently working on my personal portfolio
-- 🌱 I’m currently learning node.js
+- 🔭 I'm currently working on Team project
+- 🌱 I’m currently learning react.js
 - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love to draw and listening to music
 
