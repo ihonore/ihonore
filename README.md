@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 [![website](./img/globe-light.svg)](https://ihonore.netlify.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://ihonore.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/honoreiradukund#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/honoreiradukund#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/ihonore01#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ihonore01#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ihonore#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ihonore#gh-dark-mode-only)
