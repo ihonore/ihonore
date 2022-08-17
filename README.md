@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Web Developer!!
 
-- 🔭 I'm currently working on Team project
-- 🌱 I’m currently learning vue.js
 - 👯 I’m looking to collaborate with other web developers
-- ⚡ Fun fact: I love to draw and listen to music
 
 ### Connect with me:
 
