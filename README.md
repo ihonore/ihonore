@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Web Developer!!
 
-- 👯 I’m looking to collaborate with other web developers
+- 👯 I’m looking to collaborate with other compenent web developers
 
 ### Connect with me:
 
