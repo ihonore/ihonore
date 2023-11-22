@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ihonore.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ihonore.netlify.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ihonore.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ihonore.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ihonore01#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ihonore01#gh-dark-mode-only)
