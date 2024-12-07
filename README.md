@@ -122,7 +122,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Moxios](https://img.shields.io/badge/-Moxios-FFCA28?style=for-the-badge&logo=axios&logoColor=black)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ---
 
 ### 🧰 Tools & Technologies
