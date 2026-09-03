@@ -1,20 +1,13 @@
 # Hi there, I'm Honore! 👋
 
 ## 🌟 About Me
-- 🚀 Passionate about building **innovative solutions** that make a meaningful impact.  
-- 💻 Master's student in **IoT**, actively applying practical knowledge to solve real-world challenges.  
+- 💻 Full stack engineer: **React** and **Node.js** front to back, **Python** for automation and machine learning, shipped on **AWS** with Docker and CI/CD.  
+- 🎓 M.Sc. in **Embedded Computing Systems and Internet of Things**, Université Marie et Louis Pasteur, 2025, with distinction.  
 - 🌍 Based in **France**, originally from **Rwanda**.  
-- 🎓 Current focus: Developing a **Smart device for Conferences** and a **platform to streamline event management**, benefiting both organizers and attendees.  
 - ⚙️ Interests: **IoT**, **Cloud Computing**, **AI/ML**, **Automation**, **Web Automation**, and **Web Development**.
 - 🎉 Fun Fact: Always building, always learning 
 
 ---
-
-## 📊 GitHub Stats
-
-![Honore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihonore&show_icons=true&theme=radical&count_private=true)
----
-
 
 ### 🌟 Specializations
 
@@ -35,6 +28,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ---
 
 
@@ -51,6 +45,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+
 ---
 
 
@@ -63,6 +58,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![REST](https://img.shields.io/badge/-REST-02569B?logo=rest&logoColor=white&style=flat)
+
 ---
 
 
@@ -73,6 +69,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white&style=flat)
+
 ---
 
 
@@ -83,6 +80,7 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+
 ---
 
 ### 🌐 Internet of Things (IoT)
@@ -96,6 +94,7 @@
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipsemosquitto&logoColor=white&style=flat)
 ![Zigbee](https://img.shields.io/badge/-Zigbee-EB0443?logo=zigbee&logoColor=white&style=flat)
 ![LoRaWAN](https://img.shields.io/badge/-LoRaWAN-00BFA5?logo=lorawan&logoColor=white&style=flat)
+
 ---
 
 ### ☁️ Cloud Computing & DevOps
@@ -107,6 +106,7 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+
 ---
 
 ### 🔄 Automation & Scripting
@@ -114,12 +114,14 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2C3E50?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ---
 
 ### 🧪 Testing Tools & Frameworks
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Moxios](https://img.shields.io/badge/-Moxios-FFCA28?style=for-the-badge&logo=axios&logoColor=black)
+
 ---
 
 ### 🧰 Tools & Technologies
@@ -130,6 +132,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
 ---
 
 ### 🎨 Design and Prototyping Tools
@@ -146,6 +149,6 @@ Use **Ctrl+Click** (Windows/Linux) or **Cmd+Click** (Mac) to open links in a new
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihonore)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ihonore01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ihonore.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ihonore.com)
 
 
